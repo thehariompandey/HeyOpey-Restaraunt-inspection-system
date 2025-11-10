@@ -1,4 +1,4 @@
-# 🏪 Heyopey Restaurant Inspection System
+# 🏪 Restaurant Inspection Automation System
 
 A full-stack MERN application that enables restaurant administrators to create inspection checklists and automatically send them to employees via WhatsApp Flows. Employees complete inspections on WhatsApp, and responses are captured and displayed on an admin dashboard.
 
